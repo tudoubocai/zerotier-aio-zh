@@ -1,7 +1,7 @@
 version: '3.6'
 services:
   zerotier-aio-zh:
-    image: niliaerith/zerotier-aio-zh:2023-09-05
+    image: dockerproxy.com/niliaerith/zerotier-aio-zh:2023-09-05
     container_name: zerotier-aio-zh
     hostname: zerotier-aio-zh
     restart: always
